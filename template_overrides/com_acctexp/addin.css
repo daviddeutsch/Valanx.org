@@ -1,0 +1,134 @@
+/******** New 1.0 Signup ********/
+#aec .starter-headline {
+margin: 24px 0 32px;
+}
+
+#aec .starter-headline h1,
+#aec .starter-headline h3 {
+text-align: center;
+}
+
+#aec .subscriptions-starter .aec-planlist {
+background: #66adcd;
+float: left;
+width: 967px;
+margin-left: -57px;
+padding: 10px 0;
+}
+
+#aec .subscriptions-starter .aec-planlist-item {
+float: left;
+width: 180px;
+margin: 20px;
+padding: 6px;
+}
+
+#aec .subscriptions-starter .aec-planlist-item h2 {
+text-align: center;
+font-size: 28px;
+margin: 6px 0;
+}
+
+#aec .subscriptions-starter .subscriptions-explanation {
+float: left;
+margin: 24px 0;
+}
+
+#aec .subscriptions-starter .subscriptions-explanation h3 {
+background: #66adcd;
+border-radius: 4px;
+color: #fff;
+padding: 4px;
+text-shadow: 1px 1px 4px #000;
+margin: 12px 0;
+text-indent: 6px;
+}
+
+#aec .subscriptions-starter .halfblock {
+float: left;
+width: 45%;
+margin: 2.5%;
+}
+
+#aec .subscriptions-starter .processor-button {
+margin: 0;
+float: inherit;
+}
+
+#aec .subscriptions-starter .aec-processor-buttons {
+text-align: center;
+}
+
+#aec ul.plan-details-custom {
+margin-left: -6px;
+width: 192px;
+}
+
+#aec ul.plan-details-custom li {
+text-align: center;
+list-style: none;
+font-size: 180%;
+line-height: 140%;
+margin-bottom: 12px;
+}
+
+#aec .aec-planlist-explanation ul.plan-details-custom li {
+line-height: 75%;
+text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+color: #fff;
+font-weight: bold;
+}
+
+#aec .aec-planlist-explanation li.price-highlight {
+padding: 10px 0;
+line-height: 100% !important;
+color: #333 !important;
+text-shadow: 0 -1px 0 rgba(255, 255, 255, 0.8) !important;
+-webkit-box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+-moz-box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+-o-box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+#aec ul.plan-details-custom li small {
+position: relative;
+top: -4px;
+font-size: 40%;
+line-height: 40%;
+}
+
+#aec li.details-length {
+font-weight: bold;
+}
+
+#aec li.price-highlight {
+background: #ffde1c;
+font-weight: bold;
+padding: 4px 0 10px;
+}
+
+#aec .aec-planlist-explanation {
+float: left;
+width: 200px;
+margin: 72px 6px 25px 40px;
+}
+
+#aec .price-strikethrough {
+font-size: 60%;
+text-decoration: line-through;
+font-weight: normal;
+line-height: 200%;
+}
+
+#aec .subscriptions-starter .aec-planlist-item li.details-price {
+font-size: 220%;
+line-height: 80%;
+}
+
+#aec .subscriptions-starter .aec-planlist-item {
+border-radius: 6px;
+-webkit-box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+-moz-box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+-o-box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
